@@ -6,6 +6,7 @@
 
 - First Download project 
 
+- ```npm i discord.js```
 
 - After write your token 
 
