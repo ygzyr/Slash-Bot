@@ -67,4 +67,4 @@ async function createAPIMessage(interaction, content) {
     return { ...apiMessage.data, files: apiMessage.files };
 }
 
-client.login('NzMzMDU4MzY5NjM5ODA5MDg1.Xw9nzg.x2jjywBEU3eHUtardw2emtvExjQ');
+client.login('HERE_YOUR_TOKEN');
