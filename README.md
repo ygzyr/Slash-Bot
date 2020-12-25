@@ -17,3 +17,7 @@
 - https://discord.com/api/oauth2/authorize?client_id=YOUR_BOT_İD&permissions=8&scope=applications.commands%20bot
 
 
+# contact 
+
+- ygzyr@icloud.com
+- Yağız#1126
